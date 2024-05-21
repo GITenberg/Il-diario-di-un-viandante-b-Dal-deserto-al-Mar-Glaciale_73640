@@ -1,0 +1,30 @@
+_repo: Il-diario-di-un-viandante-b-Dal-deserto-al-Mar-Glaciale_73640
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beltramelli, Antonio
+    birthdate: 1874
+    deathdate: 1930
+    gutenberg_agent_id: '45566'
+    url: http://www.gutenberg.org/2009/agents/45566
+    wikipedia: https://it.wikipedia.org/wiki/Antonio_Beltramelli
+description: ''
+gutenberg_issued: '2024-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73640'
+language: it
+pgterms:marc904: https://archive.org/details/ildiariodiunvian00beltuoft
+pgterms:marc905: 20211102094955beltramell
+pgterms:marc906: '1911'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: '  $aMilano :$bTreves, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Il diario di un viandante : $b (Dal deserto al Mar Glaciale)'
+url: http://www.gutenberg.org/ebooks/73640
